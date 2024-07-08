@@ -1,2 +1,1 @@
-"# allgujarati" 
-"# allgujarati" 
+npm start
